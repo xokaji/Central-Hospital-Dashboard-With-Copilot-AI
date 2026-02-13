@@ -1,0 +1,167 @@
+🎯 10-Minute Presentation Structure (3 Members)
+
+Total Time: 10 minutes
+Each person: ~3–3.5 minutes
+
+🧭 Overall Flow
+
+1️⃣ Problem & Motivation
+2️⃣ Architecture & Solution
+3️⃣ Dashboard & AI Impact
+
+Simple. Clear. Powerful.
+
+🧑‍💼 Speaker 1 (3 Minutes)
+🎯 Problem, Context & Objectives
+Slide 1 – Title Slide
+
+Central Hospital Data Insights Platform
+AI-Driven Operational & Predictive Dashboard
+
+Short intro:
+
+“Hospitals generate massive amounts of data daily, but much of it remains underutilized for decision-making.”
+
+Slide 2 – Problem Statement
+
+Explain clearly:
+
+5000 patient capacity
+
+High OPD + inpatient volume
+
+Data exists but is not fully mined
+
+No integrated predictive system
+
+Finance department doesn’t want heavy IT investment
+
+Say:
+
+“The hospital has data, but lacks intelligence.”
+
+Slide 3 – Objectives
+
+Our system aims to:
+
+Monitor operational KPIs
+
+Improve treatment oversight
+
+Predict readmission risks
+
+Optimize cost and resource allocation
+
+Avoid expensive infrastructure upgrades
+
+Finish with:
+
+“We focused on intelligence without infrastructure burden.”
+
+🧑‍💻 Speaker 2 (3–4 Minutes)
+🏗 Architecture & System Design
+Slide 4 – Architecture Diagram (Very Important)
+
+Show your clean layered diagram.
+
+Explain in simple flow:
+
+Data Sources
+→ Processing
+→ KPI Calculation
+→ Predictive Model
+→ Dashboard
+
+Don’t go too technical.
+
+Say:
+
+“The system runs locally on hospital servers to ensure cost efficiency and data privacy.”
+
+Slide 5 – Data & Processing
+
+Explain:
+
+Structured EHR tables
+
+Semi-structured logs
+
+Clinical notes
+
+Data enrichment
+
+KPI generation
+
+Focus on business meaning:
+
+Length of stay
+
+ICU load
+
+Department workload
+
+Cost per patient
+
+Slide 6 – Predictive Model
+
+Explain:
+
+Machine learning model predicts readmission probability
+
+Outputs risk score + classification
+
+Helps identify high-risk patients early
+
+Important sentence:
+
+“Instead of reacting to readmissions, the hospital can proactively intervene.”
+
+Keep it impact-focused.
+
+👨‍⚕️ Speaker 3 (3 Minutes)
+📊 Dashboard & Impact
+Slide 7 – Dashboard Overview
+
+Show screenshots.
+
+Explain sections:
+
+Operational KPIs
+
+Clinical metrics
+
+Financial trends
+
+High-risk patient roster
+
+Mention risk threshold slider.
+
+Slide 8 – Example Insight
+
+Give one scenario:
+
+Example:
+
+“If ICU occupancy increases above 85%, management can reallocate staff.”
+
+OR
+
+“If a patient shows high readmission risk, early monitoring can reduce complications.”
+
+Make it real-world.
+
+Slide 9 – Benefits & Value
+
+Bullet clearly:
+
+✔ Cost-efficient
+✔ Local deployment
+✔ Scalable
+✔ Data-driven policy improvement
+✔ Early risk detection
+
+Slide 10 – Conclusion
+
+Strong ending:
+
+“Our solution transforms hospital data into actionable intelligence while respecting financial and infrastructure constraints.”

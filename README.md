@@ -39,3 +39,4 @@ This project scaffolds a Python-based analytics and dashboard suite for Central 
 - Swap `models.train_readmission_model` with an LLM-backed tabular model (TabPFN, Hugging Face Tabular API, etc.) by keeping the input/output schema constant.
 - Hook real clinical text by replacing the synthetic note generator with actual de-identified EHR notes; the NLP pipeline expects a `note_text` column for enrichment.
 - Deploy the Streamlit app inside a lightweight container or wrap it with Dash for richer interactions if required.
+-new version
